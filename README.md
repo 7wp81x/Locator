@@ -1,10 +1,14 @@
 <p align="center">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRikM5hRuo5ONRJNg9eH523AwdKQLSlR3DVYw&usqp=CAU" alt="" />
 </p>
-
 <p align="center">
  <a href="#"><img align="center" src="https://img.shields.io/static/v1?lab /></a> 
 </p>
+
+
+
+
+
 
 # Locator
 *locate someone exact location using link.*
