@@ -5,9 +5,9 @@ and add some stuff like fake adfly & html title
 best for social engineering attacks.
 
 ## Installation
-` git clone https://github.com/Mrp1r4t3/Locator`
-` sh install.sh `
-` bash locator.sh `
+1. `git clone https://github.com/Mrp1r4t3/Locator`
+1. `sh install.sh`
+1. `bash locator.sh`
 
 ## YouTube
 [MrP1r4t3](https://www.youtube.com/c/mrp1r4t3)
