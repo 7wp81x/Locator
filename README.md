@@ -8,3 +8,5 @@ best for social engineering attacks.
 ~~git clone https://github.com/Mrp1r4t3/Locator~~
 *sh install.sh*
 *bash locator.sh*
+I think you should use an
+`<addr>` element here instead.
