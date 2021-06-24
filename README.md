@@ -10,5 +10,6 @@ best for social engineering attacks.
 ` bash locator.sh `
 
 ## YouTube
-http://github.com - automatic!
-[GitHub](http://github.com)
+[MrP1r4t3](https://www.youtube.com/c/mrp1r4t3)
+## Facebook Group
+[Android Hacker PH](https://www.facebook.com/groups/1778790372291663/)
