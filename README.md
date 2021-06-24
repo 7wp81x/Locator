@@ -1,12 +1,7 @@
-<p align="center">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf6nBsjvOR-WQDhNpKbFzsYMmaJ93LKIhf6A&usqp=CAU" alt="" />
-</p>
+
 <p align="center">
  <a href="#"><img align="center" src="https://img.shields.io/static/v1?lab /></a> 
 </p>
-#
-#
-#
 # Locator
 *locate someone exact location using link.*
 this from Thelinuxchoise code i just recode it
