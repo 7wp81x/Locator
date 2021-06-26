@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+}
+
+body {
+  /* The image used */
+  background-image: url("abJJNjahJJUrth.jpg");
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
