@@ -1,0 +1,21 @@
+Not Showing link?
+1. Make sure your internet connection is speed
+2. restart locator
+3. If still not showing just browse http:// 127.0.0.1:4040/
+and get your link
+
+IF YOU INSTALL LOCATOR ON SDCARD THE LINK WILL WONT SHOW
+CUZ IT DESIGN TO RUN ON INTERNAL STORAGE NOT IN EXTERNAL
+JUST FOLLOW THE INSTRUCTIONS BELOW TO FIX IT.
+
+First move ngrok to home dir:
+mv ngrok $HOME
+
+then edit the locator.sh:
+nano locator.sh
+
+after that find #cd $HOME && ./ngrok http 31357
+remove #
+then place # on ./ngrok http 31357
+my ngrok only runs for 1 hour
+just sign up to ngrok then use ur own authtoken
