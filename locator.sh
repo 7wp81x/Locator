@@ -242,11 +242,11 @@ fi
 if [[ -e ngrok ]]; then
 echo ""
 else
-printf "\e[1;92m[\e[0m*\e[1;92m] Downloading Ngrok...\n"
+printf "\e[1;92m[\e[0m*\e[1;92m] Installing Ngrok...\n"
 arch=$(uname -a | grep -o 'arm' | head -n1)
 arch2=$(uname -a | grep -o 'Android' | head -n1)
 if [[ $arch == *'arm'* ]] || [[ $arch2 == *'Android'* ]] ; then
-wget https://download1645.mediafire.com/dmrnzpp0qbkg/rlj0qelk8blt38k/ngrok.rar > /dev/null 2>&1
+sleep 2
 if [[ -e ngrok.rar ]]; then
 unrar x ngrok.rar > /dev/null 2>&1
 chmod +x ngrok
@@ -258,14 +258,14 @@ printf "\e[1;92m[\e[0m*\e[1;92m] Restart Locator."
 echo
 exit 1
 else
-printf "\e[1;93m[!] Download error... \e[0m\n"
+printf "\e[1;93m[!] Error... \e[0m\n"
 exit 1
 fi
 
 
 
 else
-wget https://download1645.mediafire.com/dmrnzpp0qbkg/rlj0qelk8blt38k/ngrok.rar > /dev/null 2>&1 
+sleep 1
 if [[ -e ngrok.rar ]]; then
 unrar x ngrok.rar > /dev/null 2>&1
 chmod +x ngrok
@@ -277,7 +277,7 @@ printf "\e[1;92m[\e[0m*\e[1;92m] Restart Locator."
 echo
 exit 1
 else
-printf "\e[1;93m[!] Download error... \e[0m\n"
+printf "\e[1;93m[!] Error... \e[0m\n"
 exit 1
 fi
 fi
