@@ -5,12 +5,7 @@ and add some stuff like fake adfly & html title
 best for social engineering attacks.
 
 ## Installation
-1. `git clone https://github.com/Mrp1r4t3/Locator`
+1. `git clone https://github.com/7wp81x/Locator`
 2. `cd Locator`
 3. `sh install.sh`
 4. `bash locator.sh`
-
-## YouTube
-[MrP1r4t3](https://www.youtube.com/c/mrp1r4t3)
-## Facebook Group
-[Android Hacker PH](https://www.facebook.com/groups/1778790372291663/)
